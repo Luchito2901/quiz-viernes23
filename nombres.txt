@@ -2,6 +2,8 @@ NOMBRES
 
 1. Juan David
 
+Samuel Hurtado
+
 Santiago Madrigal Gaviria
 
 
@@ -11,5 +13,6 @@ Carlos Andres Davila Toro
 
 2. Juan Pablo Gutierrez Gutierrez
 Alejandro Quintero Arbeláez
+
 
 
